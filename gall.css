@@ -1,0 +1,13 @@
+a img{
+    border: 5px solid black;
+    
+}
+a div.image :hover{
+    border: 5px solid red;
+    }
+
+    p{
+        float: left;
+        clear: both;
+        margin-right: 10%;
+    }
