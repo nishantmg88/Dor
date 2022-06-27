@@ -1,0 +1,53 @@
+header{
+    background-color: aqua;
+}
+header h1{
+    text-align: center;
+    color: red;
+    padding-bottom: 5%;
+    
+}
+a{
+    color: red;
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 15%;
+    font-size: 195%;
+    margin-bottom: 100%;
+}
+div.title{
+    border: 3px solid red;
+}
+div.title :hover{
+    color: blue;
+    
+}
+footer p{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    clear:both;
+
+}
+body{
+    background-color: aliceblue;
+}
+
+div.pic{
+    margin-left: 37%
+}
+h3{
+    text-align: center;
+    background-color: chartreuse;
+}
+
+div.nis img {
+    height: 3%;
+    margin-left: 500px;
+    
+}
+div.nis:hover{
+    border:5px solid red;
+
+
+}

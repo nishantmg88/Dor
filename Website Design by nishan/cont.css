@@ -1,0 +1,39 @@
+input[type=text],select,textarea,number,option{
+    width: 99%;
+    padding: 12px;
+    border: 2px solid black;
+    resize: vertical;
+}
+header{
+    background-color: aqua;
+}
+header h1{
+    text-align: center;
+    color: red;
+    padding-bottom: 5%;
+}
+a{
+    color: red;
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 15%;
+    font-size: 195%;
+    margin-bottom: 100%;
+    
+}
+.a .row{
+    color: black;
+    background-color: black;
+}
+footer p{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    clear:both;
+
+}
+body{
+    background-color: aliceblue;
+}
+div.title{
+    border: 3px solid red;
